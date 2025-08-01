@@ -1,8 +1,7 @@
 # Recipe Generator App
 
 ## Demo Video
-
-*Demo video available locally - Screen Recording 2025-08-01 102824.mp4*
+![video](public/Screen Recording 2025-08-01 102824.mp4)
 
 ## Application Screenshots
 
