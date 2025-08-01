@@ -1,6 +1,6 @@
 # Recipe Generator App
 
-> **📖 Detailed Documentation For n8n**: For comprehensive n8n workflow documentation, including node-by-node breakdown, API integration details, and troubleshooting guides, see [N8N_WORKFLOW_README.md](./N8N_README.md)
+> **📖 Detailed Documentation For n8n**: For comprehensive n8n workflow documentation, including node-by-node breakdown, API integration details, and troubleshooting guides, see [N8N_README.md](./N8N_README.md)
 
 ## Application Screenshots
 
