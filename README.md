@@ -1,23 +1,16 @@
 # Recipe Generator App
 
-## Demo Video
-![video](public/Screen Recording 2025-08-01 102824.mp4)
-
 ## Application Screenshots
 
 ### Main Interface
 ![Main Application Interface](i2.png)
 
-### Recipe Generation Form
 ![Recipe Generation Form](i3.png)
 
-### Recipe Display
 ![Recipe Display](i4.png)
 
-### Recipe History
 ![Recipe History](i5.png)
 
-### User Authentication
 ![User Authentication](i6.png)
 
 ## Overview
